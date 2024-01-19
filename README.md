@@ -1,0 +1,67 @@
+
+# Assignment 1
+
+In this assignment, we will create a set of HTML pages that are styled using CSS.
+
+These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content doesn't really matter. 
+
+
+> For ease of development, you are encouraged to use the [browser-sync](https://www.browsersync.io/) npm plugin. Remember that all of your work (and commands) should be done inside of the a01 folder in your workspace. 
+
+
+## 1. Making a Simple Website
+
+### 1.1 Basics (40 points)
+
+The only real requirements for this assignment are these:
+
+1. There should be a single logical "starting" web page.
+2. There should be at least 3 pages. There is no maximum limit of pages, but don't go crazy.
+3. There should be links that navigate between the pages
+4. All of the pages should use the same CSS stylesheet
+
+### 1.2 HTML (30 points)
+
+The starting, or home page, for this assignment should be titled `index.html`. This is a standard in web development because it allows the server to render it without specify which file you want to view ([why index.html](https://www.lifewire.com/index-html-page-3466505)). This root page will then link to other html pages. These can be named whatever you like. 
+
+At a minimum, you HTML pages should have at least one of **each** of the following: 
+
+1. `<ul>` or `<ol>`.
+2. `<table>` .
+3. `<img> `.
+4. `<selector>`.
+5. `<a>`.
+
+In addition to that, all of your html pages should be valid HTML5 ([html validator](http://validator.w3.org/)). Minor warnings about browser incompatibility are OK.
+
+### 1.3 CSS (25 points)
+
+This is the part of the assignment where you can get creative. Googling examples of css and best practices is a great place to start. Especially for this assignment [w3schools](https://www.w3schools.com/css/default.asp) is going to be your best friend. 
+
+At a minimum, your stylesheet should:
+
+1. Have at least 10 selectors
+2. Use two or more fonts for different kinds of content
+3. Set the background color of some elements, specifying the color by hex notation
+4. Set the border of some elements
+5. Use the :hover pseudo-class for one or more elements
+6. Use at least one class-based selector
+7. Use at least one id-based selector
+8. Have at least one selector rely on the hierarchical relationship between two elements
+9. Use width and/or height to control the geometry of an element
+10. Validate as CSS3 using the W3C CSS validation tool ([css-validator](http://jigsaw.w3.org/css-validator/))
+
+Other than these basic features, feel free to use whatever CSS3 attributes you would like. 
+
+### 1.4 Peer View (5 points)
+
+The remaining 5 points of the assignment will be awarded based on the quality of design as judged by your peers! (**add rest** )
+
+### 2. Deployment
+
+
+
+## Disclaimer
+
+Do not use any CSS preprocessors or libraries (e.g. Bootstrap, Bulma, etc.). You are required to write all of the css yourself. Later assignments will deal with using these libraries. 
+
