@@ -59,9 +59,18 @@ The remaining 5 points of the assignment will be awarded based on the quality of
 
 ### 2. Deployment
 
+Once you are done with your webpage, please follow the following instructions to deploy it to GitHub pages: 
 
+1. Create a local branch off of your main branch called `gh-pages`. 
+2. Push said branch to the GitHub by running `git push -u origin gh-pages`
+3. Go to the `Pages` configuration tab, as instructed by the [GitHub website.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch).
+4. When choosing the branch for deploying, please choose the `gh-pages` branch you just deployed, and choose the `/root` folder. 
+5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426spring2024.github.io/a1-YOUR_REPO`. 
+
+Please, do note that if you make changes to your `main` branch after deploying your `gh-pages` branch, you will have to merge your `gh-pages` into your `main` branch for the website to reflect thew updates.
 
 ## Disclaimer
 
 Do not use any CSS preprocessors or libraries (e.g. Bootstrap, Bulma, etc.). You are required to write all of the css yourself. Later assignments will deal with using these libraries. 
+
 
