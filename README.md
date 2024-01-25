@@ -79,7 +79,10 @@ Please, do note that if you make changes to your `main` branch after deploying y
 
 ### 3. Turning In The Assignment
 
-Turn the assignment into Gradescope by Thursday, February 8th, 3:30 pm.
-https://www.gradescope.com/courses/722298/assignments
+Turn the assignment into [Gradescope by Thursday, February 8th, 3:30 pm](https://www.gradescope.com/courses/722298/assignments)
+
+Fill out the [attribution attestation form for A1](https://docs.google.com/forms/d/e/1FAIpQLSdJ4T5zq5duVUQOW7RK4eYMy9Uxac5-QILbXu3fxl6e52f_Og/viewform?usp=sf_link)
+
+Using CSS frameworks like Bootstrap, Bulma, etc. counts as "incorporating code or content found on-line".
 
 
