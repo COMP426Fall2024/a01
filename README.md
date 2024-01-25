@@ -3,7 +3,7 @@
 
 In this assignment, we will create a set of HTML pages that are styled using CSS.
 
-These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content doesn't really matter. 
+These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content subject is up to you. 
 
 ## 1. Making a Simple Website
 
@@ -63,7 +63,7 @@ Everyone will be required to rate at least 7 other submissions according to a ru
 * 4: Better than most other submissions but not necessarily the best.
 * 5: Professional-level design and content. Could reasonably be nominated for best website. 
 
-You will get 5 points for completing your reviews and the average of the reviews your peers gave you. This part of the assignment will be done later in the semester after everyone's submission is turned in and we have had a chance to create the infrastructure necessary for making review assignments and submitting reviews. 
+You will get 5 points for completing your reviews plus the average of the reviews your peers gave you. This part of the assignment will be done later in the semester after everyone's submission is turned in and we have had a chance to create the infrastructure necessary for making review assignments and submitting reviews. 
 
 ### 2. Deployment
 
@@ -80,5 +80,6 @@ Please, do note that if you make changes to your `main` branch after deploying y
 ### 3. Turning In The Assignment
 
 Turn the assignment into Gradescope by Thursday, February 8th, 3:30 pm.
+https://www.gradescope.com/courses/722298/assignments
 
 
