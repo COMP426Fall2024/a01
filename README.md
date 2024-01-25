@@ -11,10 +11,11 @@ These pages should describe a mythological character or mythological story. The 
 
 The only real requirements for this assignment are these:
 
-1. There should be a single logical "starting" web page.
+1. There should be a single logical "starting" web page as index.html.
 2. There should be at least 3 pages. There is no maximum limit of pages, but don't go crazy.
 3. There should be links that navigate between the pages
 4. All of the pages should use the same CSS stylesheet
+5. All of the pages, stylesheets, images, or other resources are commited to this repository.
 
 ### 1.2 HTML (30 points)
 
@@ -78,5 +79,6 @@ Please, do note that if you make changes to your `main` branch after deploying y
 
 ### 3. Turning In The Assignment
 
+Turn the assignment into Gradescope by Thursday, February 8th, 3:30 pm.
 
 
