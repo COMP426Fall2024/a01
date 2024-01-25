@@ -5,13 +5,9 @@ In this assignment, we will create a set of HTML pages that are styled using CSS
 
 These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content doesn't really matter. 
 
-
-> For ease of development, you are encouraged to use the [browser-sync](https://www.browsersync.io/) npm plugin. Remember that all of your work (and commands) should be done inside of the a01 folder in your workspace. 
-
-
 ## 1. Making a Simple Website
 
-### 1.1 Basics (40 points)
+### 1.1 Basics (30 points)
 
 The only real requirements for this assignment are these:
 
@@ -34,7 +30,7 @@ At a minimum, you HTML pages should have at least one of **each** of the followi
 
 In addition to that, all of your html pages should be valid HTML5 ([html validator](http://validator.w3.org/)). Minor warnings about browser incompatibility are OK.
 
-### 1.3 CSS (25 points)
+### 1.3 CSS (30 points)
 
 This is the part of the assignment where you can get creative. Googling examples of css and best practices is a great place to start. Especially for this assignment [w3schools](https://www.w3schools.com/css/default.asp) is going to be your best friend. 
 
@@ -53,9 +49,20 @@ At a minimum, your stylesheet should:
 
 Other than these basic features, feel free to use whatever CSS3 attributes you would like. 
 
-### 1.4 Peer View (5 points)
+### 1.4 Peer View (10 points)
 
-The remaining 5 points of the assignment will be awarded based on the quality of design as judged by your peers! (**add rest** )
+The remaining 10 points of the assignment will be awarded based on the quality of the website as judged by your peers!
+
+Everyone will be required to rate at least 7 other submissions according to a rubric on a scale from 0-5 as follows:
+
+* 0: No Submission
+* 1: Poorly designed, content not organized or presented well.
+* 2: Meets requirements of assignment but not much to it other than that.
+* 3: Good web site with interesting content and pleasing design.
+* 4: Better than most other submissions but not necessarily the best.
+* 5: Professional-level design and content. Could reasonably be nominated for best website. 
+
+You will get 5 points for completing your reviews and the average of the reviews your peers gave you. This part of the assignment will be done later in the semester after everyone's submission is turned in and we have had a chance to create the infrastructure necessary for making review assignments and submitting reviews. 
 
 ### 2. Deployment
 
@@ -67,10 +74,9 @@ Once you are done with your webpage, please follow the following instructions to
 4. When choosing the branch for deploying, please choose the `gh-pages` branch you just deployed, and choose the `/root` folder. 
 5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426spring2024.github.io/a1-YOUR_REPO`. 
 
-Please, do note that if you make changes to your `main` branch after deploying your `gh-pages` branch, you will have to merge your `gh-pages` into your `main` branch for the website to reflect thew updates.
+Please, do note that if you make changes to your `main` branch after deploying your `gh-pages` branch, you will have to merge your `main` into your `gh-pages` branch for the website to reflect thew updates.
 
-## Disclaimer
+### 3. Turning In The Assignment
 
-Do not use any CSS preprocessors or libraries (e.g. Bootstrap, Bulma, etc.). You are required to write all of the css yourself. Later assignments will deal with using these libraries. 
 
 
